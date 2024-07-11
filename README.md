@@ -8,3 +8,4 @@
 
 - 3.0.0 : SUDDEN SHELL SCRIPT
 - 3.0.1 : fix script
+- 3.0.2 : short change
