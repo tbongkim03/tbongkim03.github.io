@@ -7,3 +7,4 @@
 - 1.7.0 : en-core
 
 - 3.0.0 : SUDDEN SHELL SCRIPT
+- 3.0.1 : fix script
