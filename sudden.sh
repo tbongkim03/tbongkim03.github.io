@@ -1,8 +1,8 @@
 #!/bin/bash
 
 FILE=~/tmp/_SUDDEN
+Date=$(date +"%Y%m%d %H:%M:%S")
 
-figlet K I A
 while true
 do
 	if [ -f "$FILE" ]; then
@@ -10,7 +10,7 @@ do
 	else
 		clear
 		figlet K I A
-		date
+		echo $Date
 	fi
 	sleep 3
 
